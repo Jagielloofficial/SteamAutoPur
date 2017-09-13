@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Steam1 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" i:type="logins">
+  <login>
+    <Name>Bow of the Urushin Huntsman</Name>
+    <Price>10</Price>
+    <Description>Chaotic</Description>
+  </login>
+  <login>
+    <Name>Wrap of the Urushin Huntsman</Name>
+    <Price>20</Price>
+    <Description>Chaotic</Description>
+  </login>
+  <login>
+    <Name>Talons of the Urushin Huntsman</Name>
+    <Price>7</Price>
+    <Description>Chaotic</Description>
+  </login>
+  <login>
+    <Name>Sentinels of the Urushin Huntsman</Name>
+    <Price>16</Price>
+    <Description>Chaotic</Description>
+  </login>
+</Steam1>

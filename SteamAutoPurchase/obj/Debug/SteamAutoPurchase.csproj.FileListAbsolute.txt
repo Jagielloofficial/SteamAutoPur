@@ -1,0 +1,10 @@
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\obj\Debug\SteamAutoPurchase.csprojResolveAssemblyReference.cache
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\SteamAutoPurchase.exe.config
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\SteamAutoPurchase.exe
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\SteamAutoPurchase.pdb
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\SteamAuth.dll
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\SteamAuth.pdb
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\obj\Debug\SteamAutoPurchase.exe
+C:\Users\My\Desktop\SteamAuth\SteamAutoPurchase\obj\Debug\SteamAutoPurchase.pdb

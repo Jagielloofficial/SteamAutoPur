@@ -1,0 +1,7 @@
+C:\Users\My\Desktop\SteamAuth\SteamAuth\bin\Debug\SteamAuth.dll
+C:\Users\My\Desktop\SteamAuth\SteamAuth\bin\Debug\SteamAuth.pdb
+C:\Users\My\Desktop\SteamAuth\SteamAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My\Desktop\SteamAuth\SteamAuth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\My\Desktop\SteamAuth\SteamAuth\obj\Debug\SteamAuth.dll
+C:\Users\My\Desktop\SteamAuth\SteamAuth\obj\Debug\SteamAuth.pdb
+C:\Users\My\Desktop\SteamAuth\SteamAuth\obj\Debug\SteamAuth.csprojResolveAssemblyReference.cache
