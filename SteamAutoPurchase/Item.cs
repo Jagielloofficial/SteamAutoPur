@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace TestBed
+namespace SteamAutoPurchase
 {
     public class Item
     {

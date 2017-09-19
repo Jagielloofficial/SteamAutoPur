@@ -1,4 +1,4 @@
-﻿namespace TestBed
+﻿namespace SteamAutoPurchase
 {
     public class Price
     {
